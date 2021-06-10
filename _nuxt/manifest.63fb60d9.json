@@ -1,0 +1,10 @@
+{
+  "name": "mlops.toys",
+  "short_name": "mlops.toys",
+  "description": "<img src=\"assets/icons/logo.png\" width=\"100\" />",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
